@@ -24,7 +24,7 @@
 ###
 
 <p align="left">
-- Backend Developer | Smart Contracts | Web3 ecosystem
+- Backend | Smart Contracts | Web3 ecosystem
 - Virtual space  (MetaverSpace)
 </p>
 
