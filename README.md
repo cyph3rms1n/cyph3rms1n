@@ -59,7 +59,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" height="40" alt="postman logo" />
-  <img src="https://raw.githubusercontent.com/foundry-rs/foundry/master/media/foundry.png" height="40" alt="foundry logo" style="background-color: white; padding: 4px; border-radius: 6px;" />
+  <img src="foundry.webp" height="40" alt="foundry logo" />
+
 
 
 
