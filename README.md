@@ -24,9 +24,10 @@
 ###
 
 <p align="left">
-- Backend | Smart Contracts | Web3 ecosystem
-- Virtual space  (MetaverSpace)
+  - Backend | Smart Contracts | Web3 ecosystem <br>
+  - Virtual space (Metaverse)
 </p>
+
 
 ###
 
