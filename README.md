@@ -26,7 +26,11 @@
 
 ###
 
-<p align="left">I'm a passionate developer and security enthusiast from India.<br><br>- 🔭 I’m working as a DevSecOps Engineer<br>- 📚 I'm currently learning advanced Rust and cloud automation<br>- ⚡ In my free time I contribute to open-source, create security tools, and solve CTFs</p>
+<p align="left">I'm a passionate Backend Developer and Security Enthusiast from India.
+
+- Backend Developer | Smart Contracts | Web3 ecosystem
+- Virtual space  (MetaverSpace)
+</p>
 
 ###
 
