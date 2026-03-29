@@ -67,14 +67,3 @@
 
 
 </div>
-
-###
-
-<h3 align="left">🔥 My Stats :</h3>
-
-<div align="left">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=cyph3rms1n&show_icons=true&hide_border=true&theme=radical" alt="cyph3rms1n's GitHub Stats"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cyph3rms1n&layout=compact&hide_border=true&theme=radical" alt="Top Languages"/>
-</div>
-
-###
